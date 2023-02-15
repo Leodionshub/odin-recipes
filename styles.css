@@ -1,0 +1,20 @@
+h1 {
+
+    font-size: 70px;
+    font-family: Cambria, Cochin;
+
+}
+
+ul {
+    font-weight: 700;
+font-size: 25px;
+}
+#red {
+    color: darkred;
+}
+#yellow {
+    color: yellow;
+}
+#green {
+    color: darkgreen;
+}
